@@ -6,11 +6,10 @@
 ---
 
 ## 👥 Team Odoo Members
-- Shashwat Ranjan (Founder, Código Maestro)  
-- Sabhya Rajvanshi (Co-Lead & Content Strategist)  
-- Swasti Shukla (Design & UI Lead)  
-- Swayam Agarwal (AI Lead)  
-- Divyansh Srivastava (AI/ML Engineer)  
+- Shashwat Ranjan 
+- Sabhya Rajvanshi
+- Swasti Shukla 
+- Divyansh Srivastava  
 
 ---
 
