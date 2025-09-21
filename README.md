@@ -5,6 +5,11 @@
 
 ---
 
+## Video Demo
+Link to Video: 
+
+---
+
 ## 👥 Team Odoo Members
 - Shashwat Ranjan 
 - Sabhya Rajvanshi
