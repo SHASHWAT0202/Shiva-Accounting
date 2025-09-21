@@ -1,3 +1,30 @@
+# Shiv Accounts Cloud – Problem Statement 2
+
+### Team Number: 81  
+**Reviewer:** Aman Patel  
+
+---
+
+## 👥 Team Odoo Members
+- Shashwat Ranjan 
+- Sabhya Rajvanshi
+- Swasti Shukla 
+- Divyansh Srivastava  
+
+---
+
+## 📌 Problem Statement
+**Shiv Accounts Cloud** – Develop a cloud-based accounting and inventory system for SMEs.  
+The system should manage:  
+- Contact/Customer Master  
+- Product/Service Master  
+- Chart of Accounts  
+- Sales & Purchase Transactions  
+- Profit & Loss, Balance Sheet Reports  
+- Stock Statement for Products  
+
+---
+
 # Shiv Accounts - Modern Accounting Management System
 
 A comprehensive accounting and inventory management system built with modern web technologies.
@@ -31,6 +58,13 @@ This project is built with modern technologies:
 - **Payments**: Razorpay integration for secure payment processing
 - **Authentication**: Supabase Auth with role-based access control
 
+## 🚀 Our Approach
+- Configure master data (contacts, products, chart of accounts) to simulate real SME workflows.  
+- Demonstrate end-to-end flows:  
+  - Sales → Invoice → Payment → Reports  
+  - Purchase → Vendor Bill → Payment → Stock Update  
+- Provide reports with key KPIs (Revenue, Expenses, Net Profit, Stock On Hand).  
+
 ## Getting Started
 
 ### Prerequisites
@@ -42,8 +76,8 @@ This project is built with modern technologies:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd shiv-accounts-ui-98-main
+   git clone https://github.com/SHASHWAT0202/Shiva-Accounting.git
+   cd shiva-accounting
    ```
 
 2. **Install dependencies**
@@ -173,3 +207,12 @@ For support and questions:
 ## License
 
 This project is proprietary software. All rights reserved.
+##  Expected Deliverables
+- Functional accounting & inventory system  
+- Sample demo data (customers, vendors, products, transactions)  
+- Reports: Balance Sheet, Profit & Loss, Stock Statement  
+- Short presentation & live demo  
+
+---
+
+✨ *Built with passion by Team 81 for NMIT Hackathon 2025.*
